@@ -1,0 +1,46 @@
+name: testdrive
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0+1
+
+environment:
+  sdk: ^3.11.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: ^3.13.0
+  firebase_analytics: ^11.5.0
+  firebase_auth: ^5.5.0
+  google_sign_in: ^7.2.0
+  youtube_player_flutter: ^9.1.3
+  youtube_explode_dart: ^3.0.5
+  http: ^1.2.0
+  record: ^6.2.0
+  path_provider: ^2.1.0
+  flutter_inappwebview: ^6.1.6
+  google_fonts: ^6.0.0
+  file_picker: ^8.0.0
+  youtube_caption_scraper: ^0.2.1
+  share_plus: ^10.0.0
+  syncfusion_flutter_pdf: ^27.0.0
+  just_audio: ^0.9.40
+  http_parser: ^4.0.2
+  permission_handler: ^11.0.0
+  shared_preferences: ^2.5.5
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - lib/images/
+  fonts:
+    - family: OpenDyslexic
+      fonts:
+        - asset: fonts/OpenDyslexic-Regular.ttf
+        - asset: fonts/OpenDyslexic-Bold.ttf
+          weight: 700

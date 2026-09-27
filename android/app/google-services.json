@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "55037711381",
+    "project_id": "tech2026-65de2",
+    "storage_bucket": "tech2026-65de2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55037711381:android:e78cf53e0fc118d89f6a1c",
+        "android_client_info": {
+          "package_name": "com.example.testdrive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "55037711381-og3o3pa19ittvbhhtv0mr8rg86gu2tjb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.testdrive",
+            "certificate_hash": "8981cd66d97f9669ac4b6d3bd31790325a063c59"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVDT4aRD0pib26r3IKXjNH-goUbQ06gsk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "55037711381-0mtf9qbtbl8p1rvc637b2euh9a7kuuar.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.easymind.testdrive"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
